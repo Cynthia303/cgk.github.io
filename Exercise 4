@@ -1,0 +1,22 @@
+<html>
+<title> Pancasila </title
+<body>
+    <center>  <img src="garuda.png" width="700" height="700">
+           <table>
+             <tr>
+               <td><img src="satu.png" width="300" height="300"> </td><td> <font size ="5">Kesatuan Yang Maha Esa</td>
+              </tr>
+               <tr>
+                   <td><img src="dua.png" width="300" height="300"> </td><td> <font size ="5">Kemanusian Yang Adil Dan Beradab</td>
+                </tr>
+               <tr>
+                  <td><img src="tiga.png" width="300" height="300"> </td><td> <font size ="5">Persatuan Indonesia</td>
+                </tr>
+                 <tr>
+                   <td><img src="empat.png" width="300" height="300"> </td><td> <font size ="5">Kerakyatan yang dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan Perwakilan</td>
+                  </tr>
+                   <tr>
+                     <td><img src="lima.png" width="300" height="300"> </td><td> <font size ="5">Keadilan Sosial bagi Seluruh Rakyat Indonesia</td>
+                  </tr>
+    </body>
+</html>
